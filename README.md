@@ -16,3 +16,4 @@ summarize_admission_pdfs_v3.1.py : 프롬프트 개선
 * 유의사항: 지원 시 주의할 사항(예: 중복 지원 금지, 서류 제출 마감).
 * 기타 중요사항: 기숙사, 교환학생, 특별전형 등
 
+admission_pdf_summarizer_v4.3.py : 프롬프트 개선, pdf 레이아웃 기능 추가 => 정확성 소폭 증가
